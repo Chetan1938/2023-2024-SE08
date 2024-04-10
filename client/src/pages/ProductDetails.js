@@ -9,12 +9,15 @@ const ProductDetails = () => {
   const navigate = useNavigate();
   const [product, setProduct] = useState({});
   const [relatedProducts, setRelatedProducts] = useState([]);
+  const [quantity, setQuantity] = useState(1); // State to manage quantity
+  const [totalPrice, setTotalPrice] = useState(0); // State to manage total price
 
-  //initalp details
+  // Initial product details
   useEffect(() => {
     if (params?.slug) getProduct();
   }, [params?.slug]);
-  //getProduct
+
+  // Fetch product details
   const getProduct = async () => {
     try {
       const { data } = await axios.get(
@@ -26,7 +29,8 @@ const ProductDetails = () => {
       console.log(error);
     }
   };
-  //get similar product
+
+  // Fetch similar products
   const getSimilarProduct = async (pid, cid) => {
     try {
       const { data } = await axios.get(
@@ -37,6 +41,28 @@ const ProductDetails = () => {
       console.log(error);
     }
   };
+
+  // Update total price when quantity changes
+  useEffect(() => {
+    const calculateTotalPrice = () => {
+      const pricePerUnit = product?.price || 0;
+      setTotalPrice(pricePerUnit * quantity);
+    };
+    calculateTotalPrice();
+  }, [quantity, product?.price]);
+
+  // Handle change in quantity
+  const handleQuantityChange = (e) => {
+    const value = parseInt(e.target.value);
+    setQuantity(value);
+  };
+
+  // Handle add to cart button click
+  const handleAddToCart = () => {
+    // Add logic to add product to cart with selected quantity
+    console.log(`Added ${quantity} ${product.name} to cart.`);
+  };
+
   return (
     <Layout>
       <div className="row container product-details">
@@ -52,17 +78,31 @@ const ProductDetails = () => {
         <div className="col-md-6 product-details-info">
           <h1 className="text-center">Product Details</h1>
           <hr />
-          <h6>Name : {product.name}</h6>
-          <h6>Description : {product.description}</h6>
+          <h6>Name: {product.name}</h6>
+          <h6>Description: {product.description}</h6>
           <h6>
-            Price :
+            Price:{" "}
             {product?.price?.toLocaleString("en-US", {
               style: "currency",
               currency: "INR",
             })}
           </h6>
-          <h6>Category : {product?.category?.name}</h6>
-          <button class="btn btn-secondary ms-1">ADD TO CART</button>
+          <div className="form-group">
+            <label htmlFor="quantity">Quantity:</label>
+            <input
+              type="number"
+              className="form-control"
+              id="quantity"
+              min="1"
+              value={quantity}
+              onChange={handleQuantityChange}
+            />
+          </div>
+          <h6>Total Price: {totalPrice.toLocaleString("en-US", {
+            style: "currency",
+            currency: "INR",
+          })}</h6>
+          <button className="btn btn-secondary ms-1" onClick={handleAddToCart}>ADD TO CART</button>
         </div>
       </div>
       <hr />
@@ -85,7 +125,7 @@ const ProductDetails = () => {
                   <h5 className="card-title card-price">
                     {p.price.toLocaleString("en-US", {
                       style: "currency",
-                      currency: "USD",
+                      currency: "INR",
                     })}
                   </h5>
                 </div>
@@ -99,19 +139,6 @@ const ProductDetails = () => {
                   >
                     More Details
                   </button>
-                  {/* <button
-                  className="btn btn-dark ms-1"
-                  onClick={() => {
-                    setCart([...cart, p]);
-                    localStorage.setItem(
-                      "cart",
-                      JSON.stringify([...cart, p])
-                    );
-                    toast.success("Item Added to cart");
-                  }}
-                >
-                  ADD TO CART
-                </button> */}
                 </div>
               </div>
             </div>
