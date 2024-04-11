@@ -23,9 +23,6 @@
 ![Screenshot 2024-04-11 005816](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/c5045774-0822-4aec-94f6-95cf86d4a158)
 
 
-![Screenshot 2024-04-11 010625](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/00d21b32-4413-4644-a922-a72659dd8b11)
-
-
 ![Screenshot 2024-04-11 005848](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/b9687aa2-893a-401c-86e1-7ab66e715a35)
 
 
@@ -51,3 +48,6 @@
 
 
 ![Screenshot 2024-04-11 010548](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/f922f195-1ea9-414b-b007-129f7d588c18)
+
+
+![Screenshot 2024-04-11 010625](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/00d21b32-4413-4644-a922-a72659dd8b11)
