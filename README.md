@@ -1,11 +1,11 @@
 <h3 align="center">FarmCart: A bridge between farmers and consumers</h3>
 
-<h3 align="left">Team Members:</h3>
-<h3 align="left">Hannan Chougle:</h3>
-<h3 align="left">Sanchet Khemani:</h3>
-<h3 align="left">Chetan Narang:</h3>
-<h3 align="left">Manit Khira:</h3>
-<h3 align="left">Om Goplani:</h3>
+<h3 align="left">Team Members:</h2>
+<h2 align="left">Hannan Chougle</h2>
+<h2 align="left">Sanchet Khemani</h2>
+<h2 align="left">Chetan Narang</h2>
+<h2 align="left">Manit Khira</h2>
+<h2 align="left">Om Goplani</h2>
 <p align="left">
 </p>
 
