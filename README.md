@@ -7,7 +7,7 @@
 <h3 align="left">Manit Khira</h3>
 <h3 align="left">Om Goplani</h3>
 
-<p align="left">............................................................................................................................................................ </p>
+<p align="left">................................................................................................................................................................................................................................................................................................... </p>
 <h2 align="left">Languages and Tools:</h2>
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -73,3 +73,7 @@
 
 
 ![Screenshot 2024-04-11 010625](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/00d21b32-4413-4644-a922-a72659dd8b11)
+
+
+<h2 align="center">FarmCart: For more information check out the video</h2>
+<p align="center">https://drive.google.com/file/d/12LnxRN8Bmuexl_dI-bqx2832qKL-W2v5/view?usp=drive_link</p>
