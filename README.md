@@ -12,14 +12,30 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+ 
+ 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+ 
+ 
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ 
+ 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+ 
+
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+ 
+
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+ 
+  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-# This is how the website looks
+  <p align="left"> In the current era, e-commerce platforms have reshaped the landscape of various industries.The agricultural sector is no exception to this transformative trend. 'FarmCart' is a web-based platform that embodies the spirit of technological advancement to bridge the gap between local farmers and consumers by providing a direct channel for agricultural product transactions. 'FarmCart' is designed with a user-centric approach to ensure an intuitive and seamless shopping experience for consumers. Furthermore, it offers the functionality of a dynamic shopping cart, facilitating the addition and removal of products, accompanied by real-time updates of the cart's contents. The user's cart is preserved in the platform's database, guaranteeing data integrity and persistence.The project extends its utility with the incorporation of a Frequently Asked Questions (FAQ) section, providing users with essential information on how to utilize the platform effectively, thereby enhancing the user experience.
+  </p>
+
+<h2 align="center">FarmCart: This is how the website looks</h2>
 
 ![Screenshot 2024-04-11 005700](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/3d035237-46c2-4001-9e9c-d5683761f15e)
 
