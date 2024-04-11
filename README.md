@@ -2,13 +2,11 @@
 #This is how the website looks
 ![Screenshot 2024-04-11 005700](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/3d035237-46c2-4001-9e9c-d5683761f15e)
 
-![Screenshot 2024-04-11 005748](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/f9dffb4e-2945-45dd-a75f-374504f9ab48)
-
 ![Screenshot 2024-04-11 005833](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/af2f28d3-9318-4661-bd88-1e40cfa3d8ec)
 
 ![Screenshot 2024-04-11 005718](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/03b7be94-88e9-4d0b-a75c-774e168d8118)
 
-![Screenshot 2024-04-11 005748](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/a50efde4-2b51-46f9-803a-f06ebb49eca4)
+
 
 ![Screenshot 2024-04-11 005816](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/c5045774-0822-4aec-94f6-95cf86d4a158)
 
