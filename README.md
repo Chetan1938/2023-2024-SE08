@@ -27,7 +27,7 @@
 
 
 <h2 align="center"> Logbook </h2>
-<p align="centre">               https://github.com/Chetan1938/2023-2024-SE08/files/14951267/Log.book.2024.final.pdf </p>
+<h3 align="centre">               https://github.com/Chetan1938/2023-2024-SE08/files/14951267/Log.book.2024.final.pdf </h3>
 <h2 align="center"> Report
 </h2>
 
