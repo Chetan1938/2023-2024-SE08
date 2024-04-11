@@ -25,12 +25,12 @@
   <p align="left"> In the current era, e-commerce platforms have reshaped the landscape of various industries.The agricultural sector is no exception to this transformative trend. 'FarmCart' is a web-based platform that embodies the spirit of technological advancement to bridge the gap between local farmers and consumers by providing a direct channel for agricultural product transactions. 'FarmCart' is designed with a user-centric approach to ensure an intuitive and seamless shopping experience for consumers. Furthermore, it offers the functionality of a dynamic shopping cart, facilitating the addition and removal of products, accompanied by real-time updates of the cart's contents. The user's cart is preserved in the platform's database, guaranteeing data integrity and persistence.The project extends its utility with the incorporation of a Frequently Asked Questions (FAQ) section, providing users with essential information on how to utilize the platform effectively, thereby enhancing the user experience.
   </p>
 
-<p align="center">
-<h2 align="center"> Logbook: https://github.com/Chetan1938/2023-2024-SE08/files/14951267/Log.book.2024.final.pdf
-</h2>
+
+<h2 align="center"> Logbook </h2>
+<p align="centre">https://github.com/Chetan1938/2023-2024-SE08/files/14951267/Log.book.2024.final.pdf </p>
 <h2 align="center"> Report:
 </h2>
-</p>
+
 
 
 <h2 align="center">Output</h2>
