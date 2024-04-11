@@ -1,10 +1,5 @@
 # FarmCart
 
-# Video for understanding this webiste better
-
-https://drive.google.com/file/d/12LnxRN8Bmuexl_dI-bqx2832qKL-W2v5/view?usp=drive_link
-
-
 # This is how the website looks
 
 ![Screenshot 2024-04-11 005700](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/3d035237-46c2-4001-9e9c-d5683761f15e)
