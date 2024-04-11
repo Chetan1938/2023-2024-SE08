@@ -1,4 +1,8 @@
 # FarmCart
+
+# Video for understanding this webiste better
+
+
 # This is how the website looks
 
 ![Screenshot 2024-04-11 005700](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/3d035237-46c2-4001-9e9c-d5683761f15e)
@@ -39,8 +43,11 @@
 
 ![Screenshot 2024-04-11 010504](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/457507ea-9f79-447e-8b6b-1bceebe789c9)
 
+
 ![Screenshot 2024-04-11 010518](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/7088786c-4df5-464f-94b9-80d373aa3c76)
 
+
 ![Screenshot 2024-04-11 010535](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/4a7d91dc-ea71-4f9c-ade5-01a0f1ad41c5)
+
 
 ![Screenshot 2024-04-11 010548](https://github.com/Chetan1938/2023-2024-SE08/assets/137786091/f922f195-1ea9-414b-b007-129f7d588c18)
