@@ -26,7 +26,7 @@
   </p>
 
 <p align="center">
-<h2 align="center"> Logbook: [Log book 2024 final.pdf](https://github.com/Chetan1938/2023-2024-SE08/files/14951267/Log.book.2024.final.pdf) 
+<h2 align="center"> Logbook: https://github.com/Chetan1938/2023-2024-SE08/files/14951267/Log.book.2024.final.pdf
 </h2>
 <h2 align="center"> Report:
 </h2>
